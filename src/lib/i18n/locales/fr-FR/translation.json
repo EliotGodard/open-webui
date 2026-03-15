@@ -1929,7 +1929,7 @@
 	"Toggle 1 source": "Afficher/masquer 1 source",
 	"Toggle Dictation": "Activer/Désactiver la dictée",
 	"Toggle Sidebar": "Afficher/Masquer la barre latérale",
-	"Toggle status history": "",
+	"Toggle status history": "Afficher/masquer l'historique des statuts",
 	"Toggle whether current connection is active.": "Afficher/masquer si la connection courante est active",
 	"Token": "Token",
 	"Token counts are estimates and may not reflect actual API usage": "Le nombre de tokens est une estimation et peut ne pas refléter l'utilisation réelle de l'API",
