@@ -1720,7 +1720,7 @@
 	"Sets the random number seed to use for generation. Setting this to a specific number will make the model generate the same text for the same prompt.": "Définit la graine du générateur aléatoire pour produire un résultat déterministe. Une même graine produira toujours la même sortie pour une invite donnée.",
 	"Sets the size of the context window used to generate the next token.": "Définit la taille de la fenêtre de contexte utilisée pour générer le prochain token.",
 	"Sets the stop sequences to use. When this pattern is encountered, the LLM will stop generating text and return. Multiple stop patterns may be set by specifying multiple separate stop parameters in a modelfile.": "Définit les séquences d'arrêt à utiliser. Lorsque ce motif est rencontré, le LLM cessera de générer du texte et retournera. Plusieurs motifs d'arrêt peuvent être définis en spécifiant plusieurs réglages d'arrêt distincts dans un fichier modèle.",
-	"Setting": "",
+	"Setting": "Réglage",
 	"Settings": "Réglages",
 	"Settings Permissions": "Autorisations des paramètres",
 	"Settings saved successfully!": "Réglages enregistrés avec succès !",
