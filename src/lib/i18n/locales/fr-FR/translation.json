@@ -584,7 +584,7 @@
 	"Drop files here to upload": "Déposez des fichiers ici pour les téléverser",
 	"DuckDuckGo": "DuckDuckGo",
 	"e.g. '30s','10m'. Valid time units are 's', 'm', 'h'.": "par ex. '30s', '10 min'. Les unités de temps valides sont 's', 'm', 'h'.",
-	"e.g. 'low', 'medium', 'high'": "",
+	"e.g. 'low', 'medium', 'high'": "par ex. « low », « medium », « high »",
 	"e.g. \"json\" or a JSON schema": "par ex. \"json\" ou un schéma JSON",
 	"e.g. 60": "par ex. 60",
 	"e.g. A filter to remove profanity from text": "par ex. un filtre pour retirer les vulgarités du texte",
