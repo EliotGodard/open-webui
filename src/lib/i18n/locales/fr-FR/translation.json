@@ -1186,7 +1186,7 @@
 	"Maximum number of files per folder is {{max}}.": "Le nombre maximum de fichiers par dossier est de {{max}}.",
 	"Maximum of 3 models can be downloaded simultaneously. Please try again later.": "Un maximum de 3 modèles peut être téléchargé en même temps. Veuillez réessayer ultérieurement.",
 	"May": "Mai",
-	"MBR": "",
+	"MBR": "Membre",
 	"MCP": "MCP",
 	"MCP support is experimental and its specification changes often, which can lead to incompatibilities. OpenAPI specification support is directly maintained by the Open WebUI team, making it the more reliable option for compatibility.": "Le support du MCP est expérimental et sa spécification évolue fréquemment, ce qui peut entraîner des incompatibilités. Le support de la spécification OpenAPI est directement maintenu par l'équipe Open WebUI, ce qui en fait l'option la plus fiable en termes de compatibilité.",
 	"Medium": "Moyen",
