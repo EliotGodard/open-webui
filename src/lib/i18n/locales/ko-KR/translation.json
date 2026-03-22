@@ -1918,6 +1918,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "WebUI에 접속하려면 관리자에게 문의하십시오. 관리자는 관리자 패널에서 사용자 상태를 관리할 수 있습니다.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "지식 기반을 여기에 첨부하려면. \"지식 기반\" 워크스페이스에 먼저 추가하세요",
 	"To learn more about available endpoints, visit our documentation.": "사용 가능한 엔드포인트에 대해 자세히 알아보려면 문서를 방문하세요.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "여기서 도구를 선택하려면, \"도구\" 워크스페이스에 먼저 추가하세요.",
 	"Toast notifications for new updates": "새 업데이트 알림",

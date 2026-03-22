@@ -1919,6 +1919,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "För att få tillgång till WebUI, kontakta administratören. Administratörer kan hantera behörigheter från administrationspanelen.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "För att bifoga kunskapsbas här, lägg till dem i arbetsytan \"Kunskap\" först.",
 	"To learn more about available endpoints, visit our documentation.": "För att lära dig mer om tillgängliga endpoints, besök vår dokumentation",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Om du vill välja verktygslådor här måste du först lägga till dem i arbetsytan \"Verktyg\".",
 	"Toast notifications for new updates": "Toast-aviseringar för nya uppdateringar",

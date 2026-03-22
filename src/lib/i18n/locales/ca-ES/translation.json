@@ -1920,6 +1920,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Per accedir a la WebUI, poseu-vos en contacte amb l'administrador. Els administradors poden gestionar els estats dels usuaris des del tauler d'administració.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Per adjuntar la base de coneixement aquí, afegiu-la primer a l'espai de treball \"Coneixement\".",
 	"To learn more about available endpoints, visit our documentation.": "Per obtenir més informació sobre els punts d'accés disponibles, visiteu la nostra documentació.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "Per seleccionar habilitats aquí, afegeix-les primer a l'espai de treball \"Habilitats\".",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Per seleccionar kits d'eines aquí, afegeix-los primer a l'espai de treball \"Eines\".",
 	"Toast notifications for new updates": "Notificacions Toast de noves actualitzacions",

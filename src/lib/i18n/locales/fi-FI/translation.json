@@ -1919,6 +1919,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Päästäksesi käyttämään WebUI:ta, ota yhteyttä ylläpitäjään. Ylläpitäjät voivat hallita käyttäjien tiloja Ylläpitopaneelista.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Liittääksesi tietokantasi tähän, lisää ne ensin \"Tietämys\"-työtilaan.",
 	"To learn more about available endpoints, visit our documentation.": "Jos haluat lisätietoja käytettävissä olevista päätepisteistä, tutustu dokumentaatioomme.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "Jos haluat valita taitoja tässä, lisää ne ensin \"Taidot\"-työtilaan.",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Valitaksesi työkalusettejä tässä, lisää ne ensin \"Työkalut\"-työtilaan.",
 	"Toast notifications for new updates": "Ilmoituspopuppien näyttäminen uusista päivityksistä",

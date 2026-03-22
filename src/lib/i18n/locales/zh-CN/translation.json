@@ -1918,6 +1918,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "请联系管理员获取访问权限。管理员可以在后台管理面板中管理用户状态。",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "如需在此处附加知识库，请先将其添加到工作空间中的“知识库”中",
 	"To learn more about available endpoints, visit our documentation.": "如需了解更多关于可用端点的信息，请访问我们的文档",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "若要在此选择技能，请先将其添加到“技能”工作空间中",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "如需在这里选择工具包，请先将其添加到工作空间中的“工具”",
 	"Toast notifications for new updates": "检测到新版本时显示更新通知",

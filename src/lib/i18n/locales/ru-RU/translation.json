@@ -1921,6 +1921,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Чтобы получить доступ к WebUI, пожалуйста, обратитесь к администратору. Администраторы могут управлять статусами пользователей из панели администратора.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Чтобы прикрепить сюда базу знаний, сначала добавьте её в \"Знания\" рабочего пространства.",
 	"To learn more about available endpoints, visit our documentation.": "Чтобы узнать больше о доступных энд-поинтах, ознакомьтесь с нашей документацией.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Чтобы выбрать инструменты, сначала добавьте их в \"Инструменты\" рабочего пространства.",
 	"Toast notifications for new updates": "Уведомления о обновлениях",

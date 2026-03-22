@@ -1918,6 +1918,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "WebUI ལ་འཛུལ་སྤྱོད་བྱེད་པར། དོ་དམ་པ་དང་འབྲེལ་གཏུག་བྱེད་རོགས། དོ་དམ་པས་དོ་དམ་པའི་ལྟ་སྟེགས་ནས་བེད་སྤྱོད་མཁན་གྱི་གནས་སྟངས་དོ་དམ་བྱེད་ཐུབ།",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "ཤེས་བྱའི་རྟེན་གཞི་འདིར་འཇོག་པར། ཐོག་མར་དེ་དག་ \"ཤེས་བྱའི་\" ལས་ཡུལ་དུ་སྣོན་པ།",
 	"To learn more about available endpoints, visit our documentation.": "ཡོད་པའི་མཇུག་མཐུད་སྐོར་མང་ཙམ་ཤེས་པར། ང་ཚོའི་ཡིག་ཆ་ལ་ལྟ་བ།",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "ལག་ཆའི་ཚོགས་སྡེ་འདིར་གདམ་ག་བྱེད་པར། ཐོག་མར་དེ་དག་ \"ལག་ཆའི་\" ལས་ཡུལ་དུ་སྣོན་པ།",
 	"Toast notifications for new updates": "གསར་སྒྱུར་གསར་པའི་ཆེད་དུ་ Toast བརྡ་ཁྱབ།",

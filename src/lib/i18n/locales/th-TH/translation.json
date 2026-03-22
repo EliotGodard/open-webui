@@ -1918,6 +1918,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "ในการเข้าถึง WebUI โปรดติดต่อผู้ดูแลระบบ ผู้ดูแลระบบสามารถจัดการสถานะผู้ใช้จากแผงควบคุมผู้ดูแลระบบ",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "หากต้องการแนบฐานความรู้ที่นี่ โปรดเพิ่มไปที่ Workspace \"Knowledge\" ก่อน",
 	"To learn more about available endpoints, visit our documentation.": "หากต้องการเรียนรู้เพิ่มเติมเกี่ยวกับ Endpoints ที่มีอยู่ โปรดดูที่เอกสารของเรา",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "ในการเลือกชุดเครื่องมือที่นี่ ให้เพิ่มไปยังพื้นที่ทำงาน \"Tools\" ก่อน",
 	"Toast notifications for new updates": "การแจ้งเตือนแบบ Toast สำหรับอัปเดตใหม่",

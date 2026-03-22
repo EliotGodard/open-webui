@@ -1923,6 +1923,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "للوصول إلى واجهة WebUI، يُرجى التواصل مع المسؤول. يمكن للمسؤولين إدارة حالة المستخدمين من لوحة الإدارة.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "لإرفاق قاعدة المعرفة هنا، أضفها أولاً إلى مساحة العمل \"المعرفة\".",
 	"To learn more about available endpoints, visit our documentation.": "لمعرفة المزيد حول نقاط النهاية المتاحة، قم بزيارة الوثائق الخاصة بنا.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "لاختيار الأدوات هنا، أضفها أولاً إلى مساحة العمل \"الأدوات\".",
 	"Toast notifications for new updates": "إشعارات منبثقة للتحديثات الجديدة",

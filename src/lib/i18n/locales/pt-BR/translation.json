@@ -1920,6 +1920,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Para acessar a WebUI, entre em contato com o administrador. Os administradores podem gerenciar os status dos usuários no Painel de Administração.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Para anexar a base de conhecimento aqui, adicione-os ao espaço de trabalho \"Conhecimento\" primeiro.",
 	"To learn more about available endpoints, visit our documentation.": "Para saber mais sobre os endpoints disponíveis, visite nossa documentação.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "Para selecionar skills aqui, adicione-as primeiro ao espaço de trabalho \"Skills\".",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Para selecionar kits de ferramentas aqui, adicione-os ao espaço de trabalho \"Ferramentas\" primeiro.",
 	"Toast notifications for new updates": "Notificações de alerta para novas atualizações",

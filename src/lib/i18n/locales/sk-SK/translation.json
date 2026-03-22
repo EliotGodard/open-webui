@@ -1921,6 +1921,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "Pre prístup k WebUI sa prosím obráťte na administrátora. Administrátori môžu spravovať stavy používateľov z Admin Panelu.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Ak chcete tu pripojiť znalostnú databázu, najprv ju pridajte do pracovného priestoru \"Knowledge\".",
 	"To learn more about available endpoints, visit our documentation.": "",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Ak chcete tu vybrať nástroje, pridajte ich najprv do pracovného priestoru \"Tools\".",
 	"Toast notifications for new updates": "Oznámenia vo forme toastov pre nové aktualizácie",

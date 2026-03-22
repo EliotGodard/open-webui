@@ -1918,6 +1918,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "WebUIにアクセスするには、管理者にお問い合わせください。管理者は管理者パネルからユーザーのステータスを管理できます。",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "ここにナレッジベースを追加するには、まず \"Knowledge\" ワークスペースに追加してください。",
 	"To learn more about available endpoints, visit our documentation.": "利用可能なエンドポイントについては、ドキュメントを参照してください。",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "ここでツールキットを選択するには、まず \"Tools\" ワークスペースに追加してください。",
 	"Toast notifications for new updates": "新しい更新のトースト通知",

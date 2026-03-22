@@ -1919,6 +1919,8 @@
 	"To access the WebUI, please reach out to the administrator. Admins can manage user statuses from the Admin Panel.": "WebUI'ye erişmek için lütfen yöneticiyle iletişime geçin. Yöneticiler kullanıcı durumlarını Yönetici Panelinden yönetebilir.",
 	"To attach knowledge base here, add them to the \"Knowledge\" workspace first.": "Bilgi tabanını buraya eklemek için önce bunları \"Bilgi\" çalışma alanına ekleyin.",
 	"To learn more about available endpoints, visit our documentation.": "Mevcut uç noktalar hakkında daha fazla bilgi edinmek için belgelerimize göz atın.",
+	"To learn more about SpeechT5": "",
+	"To see the available CMU Arctic speaker embeddings": "",
 	"To select skills here, add them to the \"Skills\" workspace first.": "Burada yetenek seçmek için önce bunları \"Yetenekler\" çalışma alanına ekleyin.",
 	"To select toolkits here, add them to the \"Tools\" workspace first.": "Araçları burada seçmek için öncelikle bunları \"Araçlar\" çalışma alanına ekleyin.",
 	"Toast notifications for new updates": "",
