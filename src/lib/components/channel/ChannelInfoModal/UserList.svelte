@@ -115,7 +115,7 @@
 						on:click={onAdd}
 					>
 						<Plus className="size-3.5 " />
-						<span>{$i18n.t('Add Member')}</span>
+						<span>{$i18n.t('Add Members')}</span>
 					</button>
 				</div>
 			{/if}
